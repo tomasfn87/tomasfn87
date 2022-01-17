@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomasfn87
 - 👀 I’m interested in learn how to code.
-- 🌱 I’m currently learning python and nodeJs.
+- 🌱 I’m currently learning Python, Bash, JavaScript and Go.
 - 💞️ I’m looking to collaborate on software development and english, french and portuguese translations. 
 - 📫 You can reach me @ tomasfnalle@protonmail.com
 
