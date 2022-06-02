@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomasfn87
-- 🌱 I’m currently learning Python, Bash, JavaScript and Go.
+- 🌱 I’m currently working with Web Analytics (JavaScript and SQL).
 - 📫 You can reach me @ tomasfnalle@protonmail.com
 
 <!---
