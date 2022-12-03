@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomasfn87
-- 🌱 I’m currently working with Web Analytics (JavaScript and SQL).
+- 🌱 I’m currently working with Web Analytics.
 - 📫 You can reach me @ tomasfnalle@protonmail.com
 
 <!---
