@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomasfn87
-- 🌱 I’m currently working with Data Analytics and Digital Marketing.
+- 🌱 I’m currently working with Data Analytics and Data Driven Marketing.
 - 📫 You can reach me @ tomasfnalle@protonmail.com
 
 <!---
